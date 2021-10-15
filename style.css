@@ -1,3 +1,13 @@
 body {
     background: lavender; 
 }
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}  
+
+p { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
